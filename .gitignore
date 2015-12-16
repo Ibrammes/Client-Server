@@ -2,4 +2,7 @@ ClientServerApplication.sdf
 ClientServerApplication/Debug/
 ClientServerApplication/ClientServerApplication/Debug/
 ClientServerApplication/Server/Debug/
+ClientServerApplication/Release/
+ClientServerApplication/ClientServerApplication/Release/
+ClientServerApplication/Server/Release/
 
